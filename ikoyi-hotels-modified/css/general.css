@@ -999,7 +999,7 @@ span:hover {
   /* footer*/
 
   footer {
-    background-image: url("img/footer.png");
+    background-image: url("assets/images/footer.png");
     padding-top: 80px;
     padding-bottom: 20px;
   }
